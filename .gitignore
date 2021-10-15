@@ -2,7 +2,7 @@
 build
 *.mode1v3
 *.pbxuser
-project.xcworkspace
+#project.xcworkspace
 xcuserdata
 .svn
 DerivedData
@@ -15,3 +15,4 @@ Pods/
 Carthage/
 /.build
 /.swiftpm/
+.idea
